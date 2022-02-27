@@ -18,4 +18,6 @@ List of useful libraries to include for different opportunities
 5. fmt                Header-only library for formatting
                       different data (strings, time, ...)
                       
-6. 
+6. glm                OpenGL Maths library to make your math
+                      easier!
+
