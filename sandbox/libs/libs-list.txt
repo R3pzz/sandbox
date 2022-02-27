@@ -1,0 +1,21 @@
+List of useful libraries to include for different opportunities
+
+  Library             Desc
+  
+1. EnTT               ECS (entity component system) for the
+                      whole entity and worlds ecosystem.
+
+2. nlohmann-json      JSON library for parsing and writing
+                      scene files / serialized data.
+
+3. Vulkan-SDK         Vulkan renderer API for rendering and
+                      GPU operations
+                      
+4. SDL2               Simple DirectMedia Layer for creating
+                      and managing engine / game windows 
+                      and events
+                      
+5. fmt                Header-only library for formatting
+                      different data (strings, time, ...)
+                      
+6. 
